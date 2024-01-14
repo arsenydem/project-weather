@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "649a0457464c5a63a6d7887d"
+  },
+  "login": "Senya",
+  "password": 12345,
+  "__v": 0,
+  "isNow": false
+},
+{
+  "_id": {
+    "$oid": "649c8b56d1fbbacccc77e272"
+  },
+  "login": "Tasya",
+  "password": 654321,
+  "__v": 0,
+  "isNow": false
+},
+{
+  "_id": {
+    "$oid": "649c8b66d1fbbacccc77e273"
+  },
+  "login": "Dolya",
+  "password": 17925,
+  "__v": 0,
+  "isNow": false
+},
+{
+  "_id": {
+    "$oid": "649c8b72d1fbbacccc77e274"
+  },
+  "login": "Sveta",
+  "password": 74392,
+  "__v": 0,
+  "isNow": false
+}]
